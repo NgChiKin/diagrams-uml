@@ -1,1 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T06:23:30.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="18.0.2" etag="eb_kPz0hGaKvM7AD6pE5" type="github"><diagram id="I4okdJWxAG-qtyojCuBT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-14T02:26:43.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="pxK3qIGJwG4bDgAJsVIO" version="19.0.3" type="github">
+  <diagram id="I4okdJWxAG-qtyojCuBT" name="Page-1">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oHruzPqGcZxJ0tDUvK8l-7" value="Field" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="160" height="290" as="geometry">
+            <mxRectangle x="30" y="20" width="60" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oHruzPqGcZxJ0tDUvK8l-8" value="+ contextType: FieldContext&#xa;+ mounted: boolean&#xa;+ touched: boolean&#xa;+ validatePromise: Promise&#xa;+ errors: string[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oHruzPqGcZxJ0tDUvK8l-7">
+          <mxGeometry y="26" width="160" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="oHruzPqGcZxJ0tDUvK8l-9" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="oHruzPqGcZxJ0tDUvK8l-7">
+          <mxGeometry y="110" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="oHruzPqGcZxJ0tDUvK8l-10" value="+ cancelRegister(): void&#xa;+ getNamePath(): string[]&#xa;+ reRender(): void&#xa;+ refresh(): void&#xa;+ onStoreChange(prevSotre&#xa;, namePathList, info): void&#xa;+ isFieldValidating: boolean&#xa;+ isFieldTouched: boolean&#xa;+ getErrors: string[]&#xa;+ getValue: any&#xa;+ getControlled: any" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oHruzPqGcZxJ0tDUvK8l-7">
+          <mxGeometry y="118" width="160" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="oHruzPqGcZxJ0tDUvK8l-23" value="FormStore" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="20" width="220" height="520" as="geometry">
+            <mxRectangle x="230" y="20" width="90" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oHruzPqGcZxJ0tDUvK8l-24" value="+ formHooked: boolean&#xa;+ subscribable: boolean&#xa;+ store: any&#xa;+ fieldEntities: FieldEntity[]&#xa;+ callbacks: Callbacks&#xa;+ validateMessages: ValidateMessages&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oHruzPqGcZxJ0tDUvK8l-23">
+          <mxGeometry y="26" width="220" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="oHruzPqGcZxJ0tDUvK8l-25" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="oHruzPqGcZxJ0tDUvK8l-23">
+          <mxGeometry y="130" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="oHruzPqGcZxJ0tDUvK8l-26" value="+ getForm(): InternalFormInstance&#xa;+ useSubscribe(flag): void&#xa;+ destroyForm(): void&#xa;+ getInitiaVale: (name): void&#xa;+ registerWatch(cb): () =&gt; void &#xa;+ notifyWatch(namePath) =&gt; void&#xa;+ updateStore(nextStore) =&gt; void&#xa;+ getFieldEntities(pure) =&gt; FieldEntity[]&#xa;+ getFieldsMap(pure) =&gt; NameMap&#xa;+ getFieldsValue(nameList, filterFunc) &#xa;    =&gt; Store&#xa;+ getFieldsError(name): string[]&#xa;+ isFieldsTouched(...args): boolean&#xa;+ resetWithFieldInitialValue(): void&#xa;+ resetFields(nameList): void&#xa;+ setFields(fields): void&#xa;+ getFields(): InternalFieldData[]&#xa;+ initEntityValue(entity): void&#xa;+ registerField(entity): void&#xa;+ dispatch(action): void&#xa;+ notifyObservers(): void&#xa;+ updateValue(name: value): void&#xa;+ setFieldsValue(store): void&#xa;+ triggerOnFieldsChange(&#xa;      namePathList, filedErrors) =&gt; void&#xa;+ validateFileds(name) =&gt; Promise" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oHruzPqGcZxJ0tDUvK8l-23">
+          <mxGeometry y="138" width="220" height="382" as="geometry" />
+        </mxCell>
+        <mxCell id="oHruzPqGcZxJ0tDUvK8l-27" value=" Form" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="30" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="oHruzPqGcZxJ0tDUvK8l-28" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oHruzPqGcZxJ0tDUvK8l-27">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oHruzPqGcZxJ0tDUvK8l-29" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="oHruzPqGcZxJ0tDUvK8l-27">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="oHruzPqGcZxJ0tDUvK8l-30" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oHruzPqGcZxJ0tDUvK8l-27">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
