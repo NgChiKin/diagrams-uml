@@ -1,1 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T06:32:27.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.1" etag="9ccDG6-pwhVqcN225vEh" type="github"><diagram id="xUdVC9bdyIaF0NLm_r8J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-14T08:09:17.788Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OevoRO439t04oOUkrmgi" version="20.0.1" type="github">
+  <diagram id="xUdVC9bdyIaF0NLm_r8J" name="Page-1">
+    <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="600" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-6" value="pc &amp;amp; h5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-8" value="【ML】WebSDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="440" as="sourcePoint" />
+            <mxPoint x="160" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="440" as="sourcePoint" />
+            <mxPoint x="320" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="440" as="sourcePoint" />
+            <mxPoint x="510" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="440" as="sourcePoint" />
+            <mxPoint x="670" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-17" value="错误捕获 &amp;amp; 异常处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="154" y="130" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="154" y="180" width="166" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-24" value="房间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="154" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="331" y="180" width="166" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="508" y="180" width="166" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-31" value="媒体服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="331" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-33" value="引擎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="508" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-44" value="房间状态" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175.5" y="220" width="124.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-48" value="房间人数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175.5" y="270" width="124.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-50" value="推拉流状态" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="351" y="220" width="124.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-51" value="设备状态" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="351" y="270" width="124.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-52" value="设备异常" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="351.75" y="320" width="124.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-53" value="创建流" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="528.75" y="220" width="124.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-54" value="推拉流" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="528.75" y="270" width="124.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-55" value="销毁流" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="528.75" y="320" width="124.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-56" value="设备异常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="135" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-57" value="RTCEngine" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="114" y="700" width="300" height="288" as="geometry">
+            <mxRectangle x="114" y="700" width="100" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-58" value="stream: RTCStream&#xa;static setToken(params): Promise&lt;void&gt;&#xa;supportDetection(cb: (result) =&gt; void): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TDlI9KC-u11Pn-qsA94j-57">
+          <mxGeometry y="26" width="300" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-59" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="TDlI9KC-u11Pn-qsA94j-57">
+          <mxGeometry y="90" width="300" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-60" value="loginRoom(params): Promise&lt;void&gt;&#xa;logoutRoom(params): Promise&lt;void&gt;&#xa;createStream(constraints?): Promise&lt;RTCStream&gt;&#xa;destroyStream(localStream? RTCStream): void&#xa;startPublish(stream:? RTCStream): Promise&lt;void&gt;&#xa;stopPublish(stream?: RTCStream): Promise&lt;void&gt;&#xa;on(event, listener): void&#xa;startCloudRecord(): Promise&lt;void&gt;&#xa;stopCloudRecord(): Promise&lt;void&gt;&#xa;dismissRoom(): Promise&lt;void&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TDlI9KC-u11Pn-qsA94j-57">
+          <mxGeometry y="98" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-61" value="房间消息" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="174.75" y="320" width="124.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-66" value="RTCStream" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="700" width="340" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-67" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TDlI9KC-u11Pn-qsA94j-66">
+          <mxGeometry y="26" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-68" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="TDlI9KC-u11Pn-qsA94j-66">
+          <mxGeometry y="52" width="340" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-69" value="setDevice(deviceId: string): Promise&lt;void&gt;&#xa;on(key, cb): void&#xa;getVolumeLevel(): number&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TDlI9KC-u11Pn-qsA94j-66">
+          <mxGeometry y="60" width="340" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
