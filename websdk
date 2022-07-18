@@ -1,118 +1,629 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T08:09:17.788Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OevoRO439t04oOUkrmgi" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T03:48:52.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="yiwqLM8Wq3VPY_gVDuFO" version="20.0.1" type="github">
   <diagram id="xUdVC9bdyIaF0NLm_r8J" name="Page-1">
-    <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="110" width="600" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-6" value="pc &amp;amp; h5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-6" value="pc &amp;amp; h5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="600" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-8" value="【ML】WebSDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-8" value="【ML】WebSDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="440" width="600" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="440" as="sourcePoint" />
             <mxPoint x="160" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="440" as="sourcePoint" />
             <mxPoint x="320" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="440" as="sourcePoint" />
             <mxPoint x="510" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="440" as="sourcePoint" />
             <mxPoint x="670" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-17" value="错误捕获 &amp;amp; 异常处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-17" value="错误捕获 &amp;amp; 异常处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="154" y="130" width="520" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="154" y="180" width="166" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-24" value="房间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-24" value="房间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="154" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="331" y="180" width="166" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="508" y="180" width="166" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-31" value="媒体服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-31" value="媒体服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="331" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-33" value="引擎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-33" value="引擎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="508" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-44" value="房间状态" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-44" value="房间状态" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="175.5" y="220" width="124.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-48" value="房间人数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-48" value="房间人数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="175.5" y="270" width="124.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-50" value="推拉流状态" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-50" value="推拉流状态" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="351" y="220" width="124.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-51" value="设备状态" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-51" value="设备状态" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="351" y="270" width="124.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-52" value="设备异常" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-52" value="设备异常" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="351.75" y="320" width="124.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-53" value="创建流" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-53" value="创建流" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="528.75" y="220" width="124.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-54" value="推拉流" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-54" value="推拉流" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="528.75" y="270" width="124.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-55" value="销毁流" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-55" value="销毁流" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="528.75" y="320" width="124.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-56" value="设备异常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-56" value="设备异常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="135" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-57" value="RTCEngine" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-57" value="RTCEngine" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="114" y="700" width="300" height="288" as="geometry">
             <mxRectangle x="114" y="700" width="100" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-58" value="stream: RTCStream&#xa;static setToken(params): Promise&lt;void&gt;&#xa;supportDetection(cb: (result) =&gt; void): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TDlI9KC-u11Pn-qsA94j-57">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-58" value="stream: RTCStream&#xa;static setToken(params): Promise&lt;void&gt;&#xa;supportDetection(cb: (result) =&gt; void): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TDlI9KC-u11Pn-qsA94j-57" vertex="1">
           <mxGeometry y="26" width="300" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-59" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="TDlI9KC-u11Pn-qsA94j-57">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-59" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="TDlI9KC-u11Pn-qsA94j-57" vertex="1">
           <mxGeometry y="90" width="300" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-60" value="loginRoom(params): Promise&lt;void&gt;&#xa;logoutRoom(params): Promise&lt;void&gt;&#xa;createStream(constraints?): Promise&lt;RTCStream&gt;&#xa;destroyStream(localStream? RTCStream): void&#xa;startPublish(stream:? RTCStream): Promise&lt;void&gt;&#xa;stopPublish(stream?: RTCStream): Promise&lt;void&gt;&#xa;on(event, listener): void&#xa;startCloudRecord(): Promise&lt;void&gt;&#xa;stopCloudRecord(): Promise&lt;void&gt;&#xa;dismissRoom(): Promise&lt;void&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TDlI9KC-u11Pn-qsA94j-57">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-60" value="loginRoom(params): Promise&lt;void&gt;&#xa;logoutRoom(params): Promise&lt;void&gt;&#xa;createStream(constraints?): Promise&lt;RTCStream&gt;&#xa;destroyStream(localStream? RTCStream): void&#xa;startPublish(stream:? RTCStream): Promise&lt;void&gt;&#xa;stopPublish(stream?: RTCStream): Promise&lt;void&gt;&#xa;on(event, listener): void&#xa;startCloudRecord(): Promise&lt;void&gt;&#xa;stopCloudRecord(): Promise&lt;void&gt;&#xa;dismissRoom(): Promise&lt;void&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TDlI9KC-u11Pn-qsA94j-57" vertex="1">
           <mxGeometry y="98" width="300" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-61" value="房间消息" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-61" value="房间消息" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="174.75" y="320" width="124.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-66" value="RTCStream" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-66" value="RTCStream" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="700" width="340" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-67" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TDlI9KC-u11Pn-qsA94j-66">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-67" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TDlI9KC-u11Pn-qsA94j-66" vertex="1">
           <mxGeometry y="26" width="340" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-68" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="TDlI9KC-u11Pn-qsA94j-66">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-68" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="TDlI9KC-u11Pn-qsA94j-66" vertex="1">
           <mxGeometry y="52" width="340" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="TDlI9KC-u11Pn-qsA94j-69" value="setDevice(deviceId: string): Promise&lt;void&gt;&#xa;on(key, cb): void&#xa;getVolumeLevel(): number&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TDlI9KC-u11Pn-qsA94j-66">
+        <mxCell id="TDlI9KC-u11Pn-qsA94j-69" value="setDevice(deviceId: string): Promise&lt;void&gt;&#xa;on(key, cb): void&#xa;getVolumeLevel(): number&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TDlI9KC-u11Pn-qsA94j-66" vertex="1">
           <mxGeometry y="60" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="35" width="1030" height="765" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-2" value="ML SDK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-4" value="before login room" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1171" y="70" width="299" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-5" value="init 初始化sdk" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-4">
+          <mxGeometry y="30" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-6" value="loginWithAuthCode  后台生成 jwt 加入会议" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-4">
+          <mxGeometry y="60" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-26" value="setLogger  打印SDK日志" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-4">
+          <mxGeometry y="90" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-90" value="【】检测webRTC" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-4">
+          <mxGeometry y="120" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-21" value="createClient  创建 引擎" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-4">
+          <mxGeometry y="150" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-22" value="Device" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1171" y="260" width="299" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-23" value="getDevices 获取所有设备" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-22">
+          <mxGeometry y="30" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-24" value="getMicrophones 获取音频输入设备" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-22">
+          <mxGeometry y="60" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-28" value="getPlaybackDevices 获取音频输出设备" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-22">
+          <mxGeometry y="90" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-30" value="onCameraChanged 摄像头设备变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-22">
+          <mxGeometry y="120" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-29" value="onDefaultDeviceChanged 默认设备变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-22">
+          <mxGeometry y="150" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-31" value="onMicrophoneChanged 麦克风变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-22">
+          <mxGeometry y="180" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-32" value="onPlaybackChanged 扬声器变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-22">
+          <mxGeometry y="210" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-33" value="Track" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1828" y="60" width="240" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-34" value="createMicrophoneAudioTrack  创建音频流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-33">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-35" value=" setDevice 设置采集设备ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-33">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-38" value="getVolumeLevel 获取采集的流的音量大小" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-33">
+          <mxGeometry y="90" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-39" value="play 播放音频流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-33">
+          <mxGeometry y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-40" value="stop 停止播放流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-33">
+          <mxGeometry y="150" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-41" value="setPlaybackDevice 设置播放的设备（只在谷歌下生效）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-33">
+          <mxGeometry y="180" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-42" value="setEnabled 设置流是否可用" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-33">
+          <mxGeometry y="210" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-43" value="setMuted 设置是否静音" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-33">
+          <mxGeometry y="240" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-44" value="close  销毁音频流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-33">
+          <mxGeometry y="270" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-36" value="getTrackId 获取此流的 id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-33">
+          <mxGeometry y="300" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-37" value="getMediaStreamTack 获取流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-33">
+          <mxGeometry y="330" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-45" value="Client" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="60" width="240" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-46" value="join 加入房间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-45">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-47" value="leave 退出房间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-45">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-48" value="dismiss 解散房间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-45">
+          <mxGeometry y="90" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-49" value="publish 推流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-45">
+          <mxGeometry y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-78" value="unpublish 停止推流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-45">
+          <mxGeometry y="150" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-69" value="getMemberList 获取房间用户列表信息" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-45">
+          <mxGeometry y="180" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-50" value="startCloudRecord 开启云端录制" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-45">
+          <mxGeometry y="210" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-51" value="stopCloudRecord 关闭云端录制" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-45">
+          <mxGeometry y="240" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-83" value="【】踢出房间内某个用户" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-45">
+          <mxGeometry y="270" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-84" value="【】邀请全体开麦" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-45">
+          <mxGeometry y="300" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-86" value="【】全体静音" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-45">
+          <mxGeometry y="330" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-85" value="【】重新入会" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-45">
+          <mxGeometry y="360" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-57" value="ClientEvent" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="450" width="240" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-58" value="user-joined 加入房间回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-57">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-59" value="user-left 退出房间回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-57">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-60" value="user-pulished 远端用户推流回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-57">
+          <mxGeometry y="90" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-61" value="user- unpublished 远端用户停止推流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-57">
+          <mxGeometry y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-81" value="【】弱网回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-57">
+          <mxGeometry y="150" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-82" value="【】断网回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-57">
+          <mxGeometry y="180" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-88" value="【】被踢出房间回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-57">
+          <mxGeometry y="210" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-89" value="【】被邀请开麦回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-57">
+          <mxGeometry y="240" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-87" value="【】被静音回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-57">
+          <mxGeometry y="270" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-80" value="active-audio-updated 正在讲话的top3  " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-57">
+          <mxGeometry y="300" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-VGYbNWTqPXJ4H4JmPyb-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409.25" y="1395" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-VGYbNWTqPXJ4H4JmPyb-123" target="-VGYbNWTqPXJ4H4JmPyb-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-123" value="&lt;span style=&quot;text-align: left;&quot;&gt;createMicrophoneAudioTrack&lt;/span&gt;" style="html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="453.25" y="1370" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-VGYbNWTqPXJ4H4JmPyb-124" target="-VGYbNWTqPXJ4H4JmPyb-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-124" value="&lt;span style=&quot;text-align: left;&quot;&gt;setMuted&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-VGYbNWTqPXJ4H4JmPyb-128" target="-VGYbNWTqPXJ4H4JmPyb-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-128" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;join&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-130" value="&lt;div style=&quot;text-align: left;&quot;&gt;publish&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-132" value="Engine" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="470" width="240" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-133" value="loginRoom 加入房间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-134" value="logoutRoom 退出房间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-135" value="dismissRoom 解散房间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="90" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-136" value="publishStream 推流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-137" value="unpublishStream 停止推流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="150" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-138" value="getMemberList 获取房间用户列表信息" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="180" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-139" value="startCloudRecord 开启云端录制" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="210" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-140" value="stopCloudRecord 关闭云端录制" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="240" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-141" value="dismissUser 踢出房间内某个用户" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="270" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-142" value="inviteAllUserSpeak邀请全体开麦" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="300" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-143" value="setAllUserMuted 全体静音" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="330" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-144" value="reLoginRoom 重新入会" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="360" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-251" value="createStream 创建音视频流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="390" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-253" value="getDevices 获取所有设备" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="420" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-254" value="getMicrophones 获取音频输入设备" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="450" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-255" value="getPlaybackDevices 获取音频输出设备" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="480" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-256" value="setStreamDevice 设置采集设备ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="510" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-257" value="getStreamVolumeLevel 获取采集的流的音量大小" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="540" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-259" value="setStreamPlaybackDevice 设置播放的设备（只在谷歌下生效）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="570" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-260" value="setStreamEnabled 设置流是否可用" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="600" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-261" value="setStreamMuted 设置是否静音" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="630" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-262" value="destroyStream  销毁音频流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="660" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-263" value="getStreamTrackId 获取此流的 id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-132">
+          <mxGeometry y="690" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-145" value="EngineEvent" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="1720" width="240" height="420" as="geometry">
+            <mxRectangle x="2460" y="988" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-204" value="onRoomUserAdd 加入房间回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-145">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-205" value="onRoomUserReduce 退出房间回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-145">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-213" value="onRoomUserActivities 正在讲话的top3  " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-145">
+          <mxGeometry y="90" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-207" value="onRoomStreamReduce 远端用户停止推流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-145">
+          <mxGeometry y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-206" value="onRoomStreamAdd 远端用户推流回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-145">
+          <mxGeometry y="150" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-208" value="onWeakConnection 弱网回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-145">
+          <mxGeometry y="180" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-209" value="onDisconnection 断网回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-145">
+          <mxGeometry y="210" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-211" value="onInvitedSpeak 被邀请开麦回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-145">
+          <mxGeometry y="240" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-212" value="onMuted 被静音回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-145">
+          <mxGeometry y="270" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-210" value="onDismissed 被踢出房间回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-145">
+          <mxGeometry y="300" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-215" value="onDefaultDeviceChanged 默认设备变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-145">
+          <mxGeometry y="330" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-216" value="onMicrophoneChanged 麦克风变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-145">
+          <mxGeometry y="360" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-217" value="onPlaybackChanged 扬声器变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-145">
+          <mxGeometry y="390" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-156" value="ClientEvent" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="1310" width="240" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-157" value="user-joined 加入房间回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-156">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-158" value="user-left 退出房间回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-156">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-159" value="user-pulished 远端用户推流回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-156">
+          <mxGeometry y="90" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-160" value="user- unpublished 远端用户停止推流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-156">
+          <mxGeometry y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-161" value="【】弱网回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-156">
+          <mxGeometry y="150" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-162" value="【】断网回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-156">
+          <mxGeometry y="180" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-163" value="【】被踢出房间回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-156">
+          <mxGeometry y="210" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-164" value="【】被邀请开麦回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-156">
+          <mxGeometry y="240" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-165" value="【】被静音回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-156">
+          <mxGeometry y="270" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-166" value="active-audio-updated 正在讲话的top3  " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-156">
+          <mxGeometry y="300" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-168" value="DeviceEvent" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="1490" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-173" value="onCameraChanged 摄像头设备变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-168">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-174" value="onDefaultDeviceChanged 默认设备变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-168">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-175" value="onMicrophoneChanged 麦克风变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-168">
+          <mxGeometry y="90" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-176" value="onPlaybackChanged 扬声器变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-168">
+          <mxGeometry y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-180" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.493;entryY=1.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-VGYbNWTqPXJ4H4JmPyb-145" target="-VGYbNWTqPXJ4H4JmPyb-166">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="2290" y="1800" as="sourcePoint" />
+            <mxPoint x="2330" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-182" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.346;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-VGYbNWTqPXJ4H4JmPyb-145" target="-VGYbNWTqPXJ4H4JmPyb-176">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="2590" y="1680" as="sourcePoint" />
+            <mxPoint x="2750" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-218" value="Client" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="65" width="240" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-219" value="join 加入房间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-218">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-220" value="leave 退出房间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-218">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-221" value="dismiss 解散房间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-218">
+          <mxGeometry y="90" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-222" value="publish 推流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-218">
+          <mxGeometry y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-223" value="unpublish 停止推流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-218">
+          <mxGeometry y="150" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-224" value="getMemberList 获取房间用户列表信息" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-218">
+          <mxGeometry y="180" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-225" value="startCloudRecord 开启云端录制" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-218">
+          <mxGeometry y="210" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-226" value="stopCloudRecord 关闭云端录制" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-218">
+          <mxGeometry y="240" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-227" value="【】踢出房间内某个用户" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-218">
+          <mxGeometry y="270" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-228" value="【】邀请全体开麦" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-218">
+          <mxGeometry y="300" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-229" value="【】全体静音" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-218">
+          <mxGeometry y="330" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-230" value="【】重新入会" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-218">
+          <mxGeometry y="360" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-231" value="Track" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="65" width="240" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-232" value="createMicrophoneAudioTrack  创建音频流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-231">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-233" value=" setDevice 设置采集设备ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-231">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-234" value="getVolumeLevel 获取采集的流的音量大小" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-231">
+          <mxGeometry y="90" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-235" value="play 播放音频流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-231">
+          <mxGeometry y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-236" value="stop 停止播放流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-231">
+          <mxGeometry y="150" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-237" value="setPlaybackDevice 设置播放的设备（只在谷歌下生效）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-231">
+          <mxGeometry y="180" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-238" value="setEnabled 设置流是否可用" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-231">
+          <mxGeometry y="210" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-239" value="setMuted 设置是否静音" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-231">
+          <mxGeometry y="240" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-240" value="close  销毁音频流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-231">
+          <mxGeometry y="270" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-241" value="getTrackId 获取此流的 id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-231">
+          <mxGeometry y="300" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-242" value="getMediaStreamTack 获取流" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-231">
+          <mxGeometry y="330" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-243" value="Device" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="65" width="299" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-244" value="getDevices 获取所有设备" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-243">
+          <mxGeometry y="30" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-245" value="getMicrophones 获取音频输入设备" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-243">
+          <mxGeometry y="60" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-246" value="getPlaybackDevices 获取音频输出设备" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-243">
+          <mxGeometry y="90" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-247" value="onCameraChanged 摄像头设备变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-243">
+          <mxGeometry y="120" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-248" value="onDefaultDeviceChanged 默认设备变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-243">
+          <mxGeometry y="150" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-249" value="onMicrophoneChanged 麦克风变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-243">
+          <mxGeometry y="180" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-250" value="onPlaybackChanged 扬声器变更回调" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-VGYbNWTqPXJ4H4JmPyb-243">
+          <mxGeometry y="210" width="299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-327" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-VGYbNWTqPXJ4H4JmPyb-328" target="-VGYbNWTqPXJ4H4JmPyb-330">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-328" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;localTrack =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;createMicrophoneAudioTrack&lt;/span&gt;" style="html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="431" y="1600" width="263" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-329" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-VGYbNWTqPXJ4H4JmPyb-330" target="-VGYbNWTqPXJ4H4JmPyb-332">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-330" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;localTrack.&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;setMuted&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="764" y="1600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-331" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-VGYbNWTqPXJ4H4JmPyb-332" target="-VGYbNWTqPXJ4H4JmPyb-333">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-332" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;join&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="974" y="1600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-333" value="&lt;div style=&quot;text-align: left;&quot;&gt;publish&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1224" y="1600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-337" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-VGYbNWTqPXJ4H4JmPyb-338" target="-VGYbNWTqPXJ4H4JmPyb-340">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-338" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;localTrack =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;createMicrophoneAudioTrack&lt;/span&gt;" style="html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="431" y="1490" width="263" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-339" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-VGYbNWTqPXJ4H4JmPyb-340" target="-VGYbNWTqPXJ4H4JmPyb-342">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-340" value="&lt;span style=&quot;text-align: left;&quot;&gt;client .&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;setMuted(localTrack)&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="764" y="1490" width="176" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-341" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-VGYbNWTqPXJ4H4JmPyb-342" target="-VGYbNWTqPXJ4H4JmPyb-343">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-342" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;join&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="1490" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-343" value="&lt;div style=&quot;text-align: left;&quot;&gt;publish&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1224" y="1490" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-348" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-VGYbNWTqPXJ4H4JmPyb-346" target="-VGYbNWTqPXJ4H4JmPyb-338">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-346" value="&lt;div style=&quot;text-align: left;&quot;&gt;client = RTC.client&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1490" width="171" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-351" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-VGYbNWTqPXJ4H4JmPyb-349" target="-VGYbNWTqPXJ4H4JmPyb-328">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VGYbNWTqPXJ4H4JmPyb-349" value="&lt;div style=&quot;text-align: left;&quot;&gt;client = RTC.client&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1600" width="171" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
